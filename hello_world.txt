@@ -1,1 +1,1 @@
-This is a practice message while I figure out how git works. It's pretty fun learning about version contorl and the command line.
+This is a practice message while I figure out how git works. It's pretty fun learning about version control and the command line.
